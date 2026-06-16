@@ -3,3 +3,9 @@ pandas
 yfinance
 openpyxl
 numpy
+streamlit
+pandas
+yfinance
+ccxt
+xlsxwriter
+openpyxl
